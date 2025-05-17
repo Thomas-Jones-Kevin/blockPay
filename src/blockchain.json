@@ -1,0 +1,81 @@
+{
+    "chain": [
+        {
+            "timestamp": "20/03/2025",
+            "transactions": [
+                {
+                    "fromAddr": "System",
+                    "toAddr": "admin@bank",
+                    "amount": 10000,
+                    "timestamp": 1744829531386,
+                    "signature": null
+                }
+            ],
+            "previousHash": "0",
+            "hash": "5181c4f3628be2eaab6f289bde436c1ca62e4c71fde86c6673e35a4549756a2b",
+            "nonce": 0
+        },
+        {
+            "timestamp": 1744829531563,
+            "transactions": [
+                {
+                    "fromAddr": "04263289fcbcf39aec4cc507a910f8aa937a21eff7e786a678b700e1b8091e67869dc321c8aa7c78cf23727340898ff06829054630dad1bc4abc4bf637d23202ca",
+                    "toAddr": "kevin@bank",
+                    "amount": 300,
+                    "timestamp": 1744829531436,
+                    "signature": "3045022077a926e6f1ad0c5624d2b810fbf7512a8bb92f47ad7fcea9a7d7be37baeaf0e1022100da37043bf18812f85b125653652da79319ecd04d711750c7258f60bcf13956d8"
+                }
+            ],
+            "previousHash": "5181c4f3628be2eaab6f289bde436c1ca62e4c71fde86c6673e35a4549756a2b",
+            "hash": "0059b6dfe43cbdcf391d3082528604ab02048546fcffcf6f4261acc18cb0242d",
+            "nonce": 39
+        },
+        {
+            "timestamp": 1744829566309,
+            "transactions": [
+                {
+                    "fromAddr": "04050576ea53a922f9924c2b5ef824b71834bb21571943c9b4e9462ec4a4b3332b1684189685e94aafec18fc592e94dfec6cd55b41aac489da99da2c24217d1c11",
+                    "toAddr": "kevin@bank",
+                    "amount": 89,
+                    "timestamp": 1744829566150,
+                    "signature": "304602210099b915fe79f2e7e925e401a6626f1a85ae07bbd134caa4da956dfcda229899f2022100e50c6c29c1967283b2d12f48eebba371237c233f2785280d66753d747200bd6c"
+                }
+            ],
+            "previousHash": "0059b6dfe43cbdcf391d3082528604ab02048546fcffcf6f4261acc18cb0242d",
+            "hash": "00e73fe25e0620d191a6e154fc4c92c2d8368b2f6b88af5a13e1d93e6630c289",
+            "nonce": 789
+        },
+        {
+            "timestamp": 1744869078023,
+            "transactions": [
+                {
+                    "fromAddr": "04c38ebbf34f42b211e1f12588789930f5859869a7c81babe6464923188aaf10c6baef5bec17fb431220f1609011bc7bbbf20f8e1de06e3bb21e50e3c303171347",
+                    "toAddr": "kevin@bank",
+                    "amount": 100,
+                    "timestamp": 1744869077960,
+                    "signature": "3044022042d8009284ff443772d999c149dc6044733fe045d3885715e92a77640a15a0f702206f0c6fab0e7a496eb417cf846d2ec69a78d3464da4d2162a681280b373337edc"
+                }
+            ],
+            "previousHash": "00e73fe25e0620d191a6e154fc4c92c2d8368b2f6b88af5a13e1d93e6630c289",
+            "hash": "0059a6e150feb966b45d0dc37613f5b52999b93ddef0950db557fc26c7937325",
+            "nonce": 139
+        },
+        {
+            "timestamp": 1744876939476,
+            "transactions": [
+                {
+                    "fromAddr": "041868ab0b1a021755c9a0df44cdc403863b4f363bcbccf55482dbdbaf2f854fabd13692ad3629fa9d981dd38fa00955ccdcf49c6903070786447083b48822c5a1",
+                    "toAddr": "kevin@bank",
+                    "amount": 20,
+                    "timestamp": 1744876939427,
+                    "signature": "3045022100b3ce6ad3fad64f0391eceb0b5a1f28632acb7b021d184711d555600677512e4302202e5159dbc401f958681b4c5b097f17d03d6e0bbd87cd56db30624d6c0352877e"
+                }
+            ],
+            "previousHash": "0059a6e150feb966b45d0dc37613f5b52999b93ddef0950db557fc26c7937325",
+            "hash": "0010763db068ae0dd2e1cfef3aec68a6e4385ebd61c2ac1c70ae392ac3f4622a",
+            "nonce": 129
+        }
+    ],
+    "difficulty": 2,
+    "pendingTransactions": []
+}
