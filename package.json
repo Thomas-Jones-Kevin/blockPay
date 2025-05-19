@@ -1,9 +1,13 @@
 {
   "dependencies": {
+<<<<<<< HEAD
     "body-parser": "^1.20.3",
     "crypto-js": "^4.2.0",
     "elliptic": "^6.6.1",
     "express": "^4.21.2",
     "uuid": "^11.1.0"
+=======
+    "crypto-js": "^4.2.0"
+>>>>>>> a0a2474087620630c143cca943d31d51d04cf87e
   }
 }
